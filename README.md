@@ -6,4 +6,4 @@ To calculate the number of combinations of 4 things taken 2 at
 a time, run cnr(4,2). 
 To calculate the number of permutations of 4 things taken 2 at 
 a time, run pnr(4,2).
-To calculate 5*4*3*2*1, run factorial(5).
+To calculate 5x4x3x2x1, run factorial(5).
